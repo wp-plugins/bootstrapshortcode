@@ -32,9 +32,9 @@ It has been tested and has not caused problems. To avoid any inconvenience disab
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
+1. assets/screenshot-1.png
+2. assets/screenshot-2.png
+3. assets/screenshot-3.png
 
 == Changelog ==
 
