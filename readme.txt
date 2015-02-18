@@ -26,15 +26,18 @@ Contextual backgrounds. Similar to the contextual text color classes, easily set
 It has been tested and has not caused problems. To avoid any inconvenience disable any other plugin to do what is listed in the changelog as it can cause some kind of system error.
 
 = How to use? =
-[infobox] Nullam id dolor id nibh ultricies vehicula ut id elit. [/infobox]
-[warningbox] Etiam porta sem malesuada magna mollis euismod. [warningbox]
-[dangerbox] Donec ullamcorper nulla non metus auctor fringilla. [dangerbox]
+* [infobox] Nullam id dolor id nibh ultricies vehicula ut id elit. [/infobox]
+* [warningbox] Etiam porta sem malesuada magna mollis euismod. [/warningbox]
+* [dangerbox] Donec ullamcorper nulla non metus auctor fringilla. [/dangerbox]
 
 == Screenshots ==
 
-1. [infobox] Nullam id dolor id nibh ultricies vehicula ut id elit. [/infobox]
-2. [warningbox] Etiam porta sem malesuada magna mollis euismod. [warningbox]
-3. [dangerbox] Donec ullamcorper nulla non metus auctor fringilla. [dangerbox]
+1. [infobox] Nullam id dolor id nibh ultricies vehicula ut id elit. [/infobox] 
+screenshot-1.png
+2. [warningbox] Etiam porta sem malesuada magna mollis euismod. [/warningbox] 
+screenshot-2.png
+3. [dangerbox] Donec ullamcorper nulla non metus auctor fringilla. [/dangerbox] 
+screenshot-3.png
 
 == Changelog ==
 
