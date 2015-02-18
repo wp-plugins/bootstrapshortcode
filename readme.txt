@@ -16,13 +16,8 @@ Contextual backgrounds. Similar to the contextual text color classes, easily set
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 * Upload `Bootstrap-ShortCode.php` to the `/wp-content/plugins/` directory
 * Activate the plugin through the 'Plugins' menu in WordPress
-
 
 == Frequently Asked Questions ==
 
